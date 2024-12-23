@@ -1,4 +1,4 @@
-module github.com/prashantgupta24/activity-tracker
+module github.com/tosettil-polimi/activity-tracker
 
 go 1.22.0
 
